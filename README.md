@@ -1,7 +1,7 @@
 # api-firstTest
+app run on : localhost:8081
 
-#app run on : localhost:8081
-
+# install
 Set SE-Linux: setenforce 0
 
 Set firewalld : firewall-cmd -permanent --add-port=8081/tcp
