@@ -8,6 +8,6 @@ Set firewalld > firewall-cmd -permanent --add-port=8081/tcp
 
 Set permission file > chmod 755 -R ./NodejsRestAPI 
 
-Install module package > npm install express --save 
+Install module package > npm install  
 
 Run app > node app.js
